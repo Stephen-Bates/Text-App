@@ -22,6 +22,8 @@
 
 This is a PWA text editor. This is a refactor of a provided project call "JATE" or "Just Another Text Editor".
 
+![text-app_snapshot](https://github.com/Stephen-Bates/Text-App/assets/151067004/53477c6c-1f19-46d4-906b-1c4ebafe8148)
+
 ## Installation
 
 Clone the repository and navigate to the directory using a command prompt. Run 'npm install' to install all dependancies
